@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2613eedb-7adb-48a4-bb36-62328b49af2c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E112.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemE112.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E112Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E112Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E11Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E11Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemE12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E12Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E12Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemE13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E13Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E13Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemE14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E14Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E14Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemE15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E15Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E15Runner.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Skjg4I5v6zWOfmsQjMkTbfDuoi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/Even Sem/Java/chapter1",
+    "settings.editor.selected.configurable": "inlay.hints"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2613eedb-7adb-48a4-bb36-62328b49af2c" name="Changes" comment="" />
+      <created>1689697580547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689697580547</updated>
+    </task>
+    <servers />
+  </component>
+</project>
